@@ -9,8 +9,8 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
-- I Automate Everything I see 
+- I work on DevOps, Microservices, containers, Kubernetes, Cloud and everything around it.
+- I Automate Everything I see around me
 - I’m looking to collaborate on **Cloud-native Projects**
 
 
