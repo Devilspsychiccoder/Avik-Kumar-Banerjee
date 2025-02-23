@@ -4,7 +4,7 @@
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
+<img align="right" height="300" width="500" src="https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149371585.jpg?t=st=1740341816~exp=1740345416~hmac=41640464bf49ce028a1a1376a142408b74e49a4142b8404fc6cc54caf305e6f8&w=740" />
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
