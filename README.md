@@ -10,6 +10,7 @@
 
 
 - I work on DevOps, Microservices, containers, and everything around it.
+- I Automate Everything I see 
 - I’m looking to collaborate on **Cloud-native Projects**
 
 
