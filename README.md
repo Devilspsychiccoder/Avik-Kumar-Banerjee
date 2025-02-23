@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Avik Kumar Banerjee a.k.a <a href="https://www.linkedin.com/in/avikkumarbanerjee-cloudman/">AKB</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/avikkumarbanerjee-cloudman/" target="_blank" rel="noreferrer">AVIK</a> is a passionate DevOps Engineer/SRE, working on Cloud and DevOps for 6+ years now. I am working with <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">CISCO </a> For last 5 years as a DevOps Engineer. </a>Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/avikkumarbanerjee-cloudman/" target="_blank" rel="noreferrer">AVIK</a> is a passionate DevOps Engineer/SRE, working on Cloud and DevOps for 6+ years now. I am working with <a href="https://www.cisco.com/" target="_blank" rel="noreferrer">CISCO </a> for last 5 years as a DevOps/SRE Engineer. </a>Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
