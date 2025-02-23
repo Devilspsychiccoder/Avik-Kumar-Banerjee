@@ -4,7 +4,7 @@
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-<img align="right" height="300" width="500" src="https://media.istockphoto.com/id/1404020923/vector/devops-banner-concept-has-8-steps-to-analyze-such-as-plan-code-build-operate-deploy-test.jpg?s=2048x2048&w=is&k=20&c=mzfBDcKHHapA3oJQq1VtWquQ68CyfXVMWW3iG2dkiFw=" />
+<img align="right" height="300" width="500" src="https://w7.pngwing.com/pngs/887/314/png-transparent-devops-software-engineering-technology-engineer-blue-text-trademark-thumbnail.png" />
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
