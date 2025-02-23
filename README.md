@@ -10,7 +10,7 @@
 
 
 - I work on DevOps, Microservices, containers, Kubernetes, Cloud, CI/CD, Git, Monitoring and everything around it.
-- I Automate Everything I see around me
+- I Automate Everything I see around me :)
 - I’m looking to collaborate on **Cloud-native Projects**
 
 
