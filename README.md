@@ -43,6 +43,7 @@
 
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[avikbanerjee1992@gmail.com](mailto:avikbanerjee1992@gmail.com)**
+- Linkedin Account **[https://www.linkedin.com/in/avikkumarbanerjee-cloudman/]**
 - ⚡ Fun fact **I Love Hacking and Technology**
 
 
